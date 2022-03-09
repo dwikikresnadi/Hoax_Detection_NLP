@@ -1,0 +1,7 @@
+streamlit
+Pillow
+numpy
+streamlit
+tensorflow-cpu==2.6.2
+regex
+nltk
